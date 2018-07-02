@@ -1,0 +1,5 @@
+Docker Inspect
+
+Docker inspect <image id>
+
+Docker logs <image id>
